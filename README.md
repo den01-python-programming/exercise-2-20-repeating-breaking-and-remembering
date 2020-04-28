@@ -11,8 +11,11 @@ Implement a program that asks the user for numbers (the program first prints "Wr
 ```plaintext
 Give numbers:
 **5**
+Give numbers:
 **2**
+Give numbers:
 **4**
+Give numbers:
 **-1**
 Thx! Bye!
 ```
