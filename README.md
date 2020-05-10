@@ -1,4 +1,4 @@
-# Exercise 2-20 Repeating, breaking and remembering
+# Exercise 2.20 Repeating, breaking and remembering
 
 Next, we'll implement a program one piece at a time. This is always strongly recommended when coding.
 
